@@ -3,3 +3,4 @@ def greet(name: str) -> str:
 
 
 print(greet("Python"))
+print(greet("Agent"))
